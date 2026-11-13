@@ -1,0 +1,154 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/main.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/consumption.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/consumption.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/csv.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/csv.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/monitor.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/monitor.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/resident.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/resident.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/sensor.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/sensor.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/simulator.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/simulator.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  },
+  {
+    "file": "src/stats.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/stats.c",
+      "-o",
+      "water_usage"
+    ],
+    "directory": "/home/h4vismat/algoritmos/water-usage",
+    "output": "water_usage"
+  }
+]

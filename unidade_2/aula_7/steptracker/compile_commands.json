@@ -1,0 +1,65 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/main.c",
+      "-o",
+      "steptracker"
+    ],
+    "directory": "/home/h4vismat/algoritmos/steptracker",
+    "output": "steptracker"
+  },
+  {
+    "file": "src/tracker.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/tracker.c",
+      "-o",
+      "steptracker"
+    ],
+    "directory": "/home/h4vismat/algoritmos/steptracker",
+    "output": "steptracker"
+  },
+  {
+    "file": "src/terminal.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "src/terminal.c",
+      "-o",
+      "steptracker"
+    ],
+    "directory": "/home/h4vismat/algoritmos/steptracker",
+    "output": "steptracker"
+  }
+]

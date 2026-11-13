@@ -1,0 +1,11 @@
+1) Pegue as chaves do carro.
+2) Veja se está chovendo.
+3) Está chovendo? Pegue um guarda-chuva.
+4) Vá até ao carro.
+5) Abra a porta do carro.
+6) Ligue o carro.
+7) Saia da garagem.
+8) Se dirija até o trabalho.
+9) Estacione e desligue o carro.
+10) Ainda está chovendo? Saia do carro com o guarda-chuva. Se não, apenas saia do carro.
+11) Vá para ao escritório.

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "-pthread",
+      "src/main.c",
+      "-o",
+      "piggybank"
+    ],
+    "directory": "/home/h4vismat/algoritmos/piggybank",
+    "output": "piggybank"
+  },
+  {
+    "file": "src/bank.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "-pthread",
+      "src/bank.c",
+      "-o",
+      "piggybank"
+    ],
+    "directory": "/home/h4vismat/algoritmos/piggybank",
+    "output": "piggybank"
+  },
+  {
+    "file": "src/journal.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "-pthread",
+      "src/journal.c",
+      "-o",
+      "piggybank"
+    ],
+    "directory": "/home/h4vismat/algoritmos/piggybank",
+    "output": "piggybank"
+  },
+  {
+    "file": "src/dashboard.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-Iinclude",
+      "-D_DEFAULT_SOURCE",
+      "-D_XOPEN_SOURCE=600",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wconversion",
+      "-Wshadow",
+      "-g",
+      "-pthread",
+      "src/dashboard.c",
+      "-o",
+      "piggybank"
+    ],
+    "directory": "/home/h4vismat/algoritmos/piggybank",
+    "output": "piggybank"
+  }
+]
